@@ -1,2 +1,2 @@
-# Megabyte
+# MEGABYTE
  Implementation of MEGABYTE
