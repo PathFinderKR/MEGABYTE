@@ -1,0 +1,31 @@
+{
+  "os":  "macOS-15.1-arm64-arm-64bit",
+  "python":  "3.12.4",
+  "startedAt":  "2024-10-11T06:13:50.788269Z",
+  "program":  "MEGABYTE.ipynb",
+  "git":  {
+    "remote":  "https://github.com/PathFinderKR/MegaByte.git",
+    "commit":  "16e9ad16c62bcc3a986354370cff7956a9c86a75"
+  },
+  "email":  "cheiron1103@gmail.com",
+  "root":  "/Users/pathfinder/Documents/GitHub/MegaByte",
+  "host":  "Jaewookui-MacBookAir.local",
+  "username":  "pathfinder",
+  "executable":  "/opt/anaconda3/envs/torch-env/bin/python",
+  "codePathLocal":  "MEGABYTE.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "87821021184"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  }
+}
